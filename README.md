@@ -1,19 +1,15 @@
-<p align="center">
-  Hello there. My name is Vennilay
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vennilay&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
-
----
-
-## My achievements 🌟
+<!-- Achievements -->
+<h2 align="center"><b>My achievements 🌟</b></h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vennilay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vennilay&theme=radical&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e"/>
 </div>
+
+---
+
+<!-- Top Languages -->
+<h2 align="center"><b>My top languages</b></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vennilay&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
@@ -21,7 +17,8 @@
 
 ---
 
-## My tools and skills 🛠️
+<!-- Tools and Skills -->
+<h2 align="center"><b>My tools and skills 🛠️</b></h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -43,7 +40,8 @@
 
 ---
 
-## And a little bit of programming training 📚
+<!-- Programming Training -->
+<h2 align="center"><b>And a little bit of programming training 📚</b></h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vennilay&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
@@ -55,4 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vennilay&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vennilay&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
