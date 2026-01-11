@@ -19,7 +19,7 @@ jobs:
           user: Vennilay
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: Europe/Moscow
 
           plugin_achievements: no
 
