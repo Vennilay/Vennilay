@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.0641552368124" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="186.0641552368124" y="0" width="141.7837170642373" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="327.84787230104973" y="0" width="116.33784412269733" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="444.18571642374707" y="0" width="7.9097327160166016" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="452.0954491397637" y="0" width="6.918517731763327" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.013966871527" y="0" width="0.9860331284730101" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.33227719854108" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="187.33227719854108" y="0" width="141.12736248756585" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="328.4596396861069" y="0" width="115.79928526691965" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="444.25892495302656" y="0" width="7.873116457281805" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="452.1320414103084" y="0" width="6.886490071104889" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.0185314814133" y="0" width="0.9814685185867443" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>40.45%</div>
+                                <div>40.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -247,7 +247,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>25.29%</div>
+                                <div>25.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +271,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>30.82%</div>
+                                <div>30.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                                 Nix
                             </div>
                             <small>
-                                <div>1.72%</div>
+                                <div>1.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -338,7 +338,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.68
+                            Average per day at ~1.67
                         </div>
                     </section>
                 </div>
@@ -2298,13 +2298,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2026, 04:16:11 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2026, 04:18:36 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
