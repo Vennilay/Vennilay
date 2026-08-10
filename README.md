@@ -3,7 +3,7 @@
   <h2><b>My Profile & Stats 🌟</b></h2>
 
   <picture>
-    <img src="github-metrics.svg" alt="Vennilay's GitHub Metrics" width="100%" />
+   <img src="github-metrics.svg" alt="Vennilay's GitHub Metrics" width="50%" />
   </picture>
 
 </div>
@@ -23,11 +23,12 @@
 
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/>
